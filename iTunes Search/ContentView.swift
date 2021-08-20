@@ -78,7 +78,7 @@ struct EmptyStateView: View {
             Image(systemName: "music.note")
                 .font(.system(size: 85))
                 .padding(.bottom)
-            Text("Listen to your favourit music..")
+            Text("Listen to your favourite music..")
                 .font(.title)
             Spacer()
         }
